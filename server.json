@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Aloha Nalu",
+      "price": "50.00",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "available": true,
+      "id": 4
     }
   ]
 }
