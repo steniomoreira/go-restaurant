@@ -41,7 +41,7 @@ export default function Dashboard() {
     }
   }
 
-  async function handleUpdateFood(food: IFoodPlate) {
+  async function handleUpdateFood(food: IfoodPlateInput) {
 
     try {
       const foodUpdated = await api.put(

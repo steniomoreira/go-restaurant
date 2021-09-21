@@ -1,5 +1,4 @@
 import { ReactNode, useEffect, useState } from 'react';
-import { isDOMComponent } from 'react-dom/test-utils';
 import ReactModal from 'react-modal';
 
 interface ModalProps {
